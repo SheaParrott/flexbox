@@ -1,9 +1,127 @@
 html {
   height: 100%;
+  font: 16px / 1 sans-serif;
 }
 
 body {
   margin: 0;
   min-height: 100%;
-  font: 16px / 1 sans-serif;
+  background-color:darkcyan;
+}
+.headerflex {
+  display: flex;
+  justify-content: center;
+}
+.header {
+  font-family: cursive;
+  align-content: center;
+}  
+.grumpycatpic  {
+  width: 175px;
+  height: 130px;
+}
+.centerpage {
+  margin: 15px 75px 100px 75px; 
+  background-color: lightblue;
+}
+main {
+  display: flex;
+  justify-content: center;
+}
+.navigation1 {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  border: 7px solid aqua;
+}
+.navigation2 {
+  background-color: lightgrey;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  border: 15px solid lightgrey;
+}
+a {
+  color: azure;
+  padding: 7px;
+}
+.sidebox {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid darkcyan;
+  margin: 25px;
+}
+.mcont {
+  border: 25px solid lightblue;
+}
+.mbody {
+  display: flex;
+}
+.nav2color {
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+/* 
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  height: 75vh;
+  background-color: cornflowerblue;
+  display: flex;
+}
+.flex-item {
+  background: tomato;
+  padding: 5px;
+  width: 200px;
+  height: 150px;
+  margin-top: 10px;
+  line-height: 150px;
+  color: white;
+  font-weight: bold;
+  font-size: 3rem;
+  text-align: center;
+}
+.should-be-first {
+  order: -1; */
 }
