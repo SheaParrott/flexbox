@@ -4,6 +4,7 @@ This webpage was my third project at Suncoast Developers Guild! We were instruct
 <strong>Things learned</strong><br/>
 Flexbox application and its properties within CSS<br/>
 explored the use of CSS <br/>
+lorem ipsum, its very useful for placeholder text<br/>
 
 <strong>Technologies Used</strong><br/>
 HTML<br/>
